@@ -1,0 +1,11 @@
+Crear el repositorio de tu proyecto en GitHub (ya)
+1) Configurando el entorno Java (ya)
+2) Conociendo la API para traer datos (ya)
+3) Importando la biblioteca Gson en Intellij (ya)
+4) Construyendo el Cliente para Solicitudes (HttpClient)(ya)
+5) Construyendo la Solicitud (HttpRequest)(ya)
+6) Construyendo la Respuesta (HttpResponse)(ya)
+7) Analizando la respuesta en formato JSON
+8) Filtrando las monedas
+9) Convertiendo los valores
+10) Interactuando con el usuario
