@@ -5,7 +5,7 @@ Crear el repositorio de tu proyecto en GitHub (ya)
 4) Construyendo el Cliente para Solicitudes (HttpClient)(ya)
 5) Construyendo la Solicitud (HttpRequest)(ya)
 6) Construyendo la Respuesta (HttpResponse)(ya)
-7) Analizando la respuesta en formato JSON
-8) Filtrando las monedas
-9) Convertiendo los valores
-10) Interactuando con el usuario
+7) Analizando la respuesta en formato JSON (ya)
+8) Filtrando las monedas (se supone que quedo bien)
+9) Convertiendo los valores (ya)
+10) Interactuando con el usuario (ya)
