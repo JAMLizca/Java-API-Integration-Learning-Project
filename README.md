@@ -13,10 +13,7 @@ El objetivo principal es aprender cómo integrar servicios externos, manejar pet
         
       https://github.com/JAMLizca/Java-API-Integration-Learning-Project.git
 
-- Navegar a la carpeta del proyecto:
-
-
-       cd Java-API-Integration-Learning-Project/java-aplicando-la-orientacion-a-objetos
+- Navegar a la carpeta del proyecto.
 
 
 - Abrir en tu IDE de preferencia.
